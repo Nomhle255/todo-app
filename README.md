@@ -1,4 +1,5 @@
-Contributors
--Terrance
--Nomhle
--Tlhalefang
+## Contributors
+
+- Terrance  
+- Nomhle  
+- Tlhalefang
